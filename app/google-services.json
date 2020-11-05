@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "423638282187",
+    "firebase_url": "https://notificationfire-6200d.firebaseio.com",
+    "project_id": "notificationfire-6200d",
+    "storage_bucket": "notificationfire-6200d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423638282187:android:04d9f2754dbf8f791ed04e",
+        "android_client_info": {
+          "package_name": "com.example.notificationfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423638282187-e594pcqjs0ap98p4qgqlka4pb5r8gm9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlMTciz5nCr_SHd0D2QZEDyCabYTmjpgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423638282187-e594pcqjs0ap98p4qgqlka4pb5r8gm9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
